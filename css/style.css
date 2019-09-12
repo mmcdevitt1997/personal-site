@@ -834,9 +834,9 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50%; }
 
   .cssLogo {
-    height: 190px;
-    width: 150px;
-    margin-left: 20px;
+    height: 100px;
+    width: 80px;
+    margin-left: 10px;
   }
   .img-fluid{
     margin-bottom: 5px;

@@ -834,6 +834,33 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50%; }
 
   .cssLogo {
-    height: 290px;
-    width: 210px;
+    height: 100px;
+    width: 80px;
+    margin-left: 10px;
   }
+  .img-fluid{
+    margin-bottom: 5px;
+  }
+  .contactDiv{
+    margin: 20px;
+  }
+
+  .contactDiv:hover {
+    color: #007bff
+  }
+
+.imageContact{
+  display: block;
+  margin: 0 auto;
+}
+.footerMargin {
+  margin-right: 10px;
+}
+.workImage {
+     height:148px;
+     width: 148px;
+     margin-left: 200px;
+}
+.production {
+  height: 148px
+}

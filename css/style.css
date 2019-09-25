@@ -6,6 +6,12 @@ body {
   font-size: 1rem;
   font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
 
+  .gray {
+    color:#b3b3b3 ;
+    text-decoration: none;
+
+  }
+
 ::-moz-selection {
   background: #000;
   color: #fff; }
@@ -864,3 +870,6 @@ h1, h2, h3, h4, h5, h6 {
 .production {
   height: 148px
 }
+
+
+

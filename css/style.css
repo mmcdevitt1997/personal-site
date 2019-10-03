@@ -870,6 +870,17 @@ h1, h2, h3, h4, h5, h6 {
 .production {
   height: 148px
 }
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
 
 
 
